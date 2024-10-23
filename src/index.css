@@ -1,0 +1,23 @@
+
+.header{
+  padding-top: 20px;
+  height: 200px;
+  width: 100%;
+  background-color: rgb(174, 249, 174);
+}
+h3{
+  
+  color:'green';
+}
+.inputcontainer {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 10px;
+}
+input{
+  margin: 10px;
+}
+button{
+  margin: 10px;
+}
